@@ -1,0 +1,9 @@
+{
+  "name": "Notifications",
+  "version": "1.0.0",
+  "description": "Push notifications.",
+  "devDependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.4"
+  } 
+}
